@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+OBB: Fix plot_images (#7592)
