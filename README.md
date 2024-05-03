@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+OpenVino 2024.0.0 (#8726)
